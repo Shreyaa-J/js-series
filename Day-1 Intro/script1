@@ -1,3 +1,6 @@
+//browser output methods
+
+
 console.log("hey...")
 alert("Are you okay?");//will not return any thing
 result=confirm("Do you want to proceed?");//will return true or false based on user action
