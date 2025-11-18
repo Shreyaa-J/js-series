@@ -1,0 +1,5 @@
+console.log("hey...")
+alert("Are you okay?");//will not return any thing
+result=confirm("Do you want to proceed?");//will return true or false based on user action
+console.log("User choice:", result);
+document.write("This is script 1");//will write directly to the document
